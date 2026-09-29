@@ -1,0 +1,39 @@
+# Build outputs
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipch
+*.pch
+*.iobj
+*.ipdb
+*.recipe
+Debug/
+Release/
+x64/
+x86/
+deploy/
+.vs/
+
+# User-specific VS files
+*.vcxproj.user
+*.suo
+*.user
+
+# Disassembler database files
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# Binaries and archives
+*.exe
+*.zip
+
+# OS metadata
+Thumbs.db
+desktop.ini
